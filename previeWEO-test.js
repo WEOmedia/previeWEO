@@ -9,12 +9,12 @@ $("body").append ( `
 			</div>
 			<ul class="styles">
 				<li>
+				<div class="turquoise color" id="main-colors">
+				</div></li>
+				<li>
 				<div class="yellow color" id="light-yellow">
 				</div>
 				</li>
-				<li>
-				<div class="turquoise color" id="light-green">
-				</div></li>
 				<li>
 				<div class="purple color" id="purple">
 				</div>
