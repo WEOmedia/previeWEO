@@ -16,15 +16,7 @@ $("body").append ( `
 				</div>
 				</li>
 				<li>
-				<div class="purple color" id="purple">
-				</div>
-				</li>
-				<li>
 				<div class="blue color" id="blue">
-				</div>
-				</li>
-				<li>
-				<div class="brown color" id="brown">
 				</div>
 				</li>
 			</ul>
