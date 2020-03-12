@@ -19,6 +19,10 @@ $("body").append ( `
 				<div class="blue color" id="blue">
 				</div>
 				</li>
+				<li>
+				<div class="green color" id="green">
+				</div>
+				</li>
 			</ul>
 		</div>
 	</div>
